@@ -1,0 +1,1 @@
+print("Meu nome é Areda, tenho 22 anos e preciso ganhar mais dinheiro")
