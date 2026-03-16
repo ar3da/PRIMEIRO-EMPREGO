@@ -1,3 +1,4 @@
 console.log("Meu nome é Areda, tenho 22 anos e preciso ganhar mais dinheiro");
 console.log("Quero um emprego que me dê experiencia e me ajude a crescer profissionalmente.");
 console.log("Ultimamente tenho desistido de tudo o que começo e não consigo terminar nada, mas estou realmente cansada e quero que isso acabe, por isso, vou fazer isso todos os dias a partir de 16/03/2026, até que eu consiga estabilidade financeira e me sinta realizada profissionalmente.");
+console.log("Atualmente tenho 22 anos, sou formada em Análise e Desenvolvimento de Sistemas, mas não tenho experiência profissional na área. Estou procurando um emprego que me permita aprender e crescer como programadora, mesmo que seja uma posição de nível inicial ou estágio.");
