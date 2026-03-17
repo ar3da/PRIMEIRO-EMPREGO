@@ -1,5 +1,7 @@
 let nome = "Areda";
-let idade = 22;
+let anoatual = 2026;
+let anonascimento = 2004;
+let idade = anoatual - anonascimento;
 let cidade = "Campina Grande";
 let formacao = "Análise e Desenvolvimento de Sistemas";
 let experiencia = "Nenhuma experiência profissional na área";
