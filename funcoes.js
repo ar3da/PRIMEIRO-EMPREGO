@@ -1,19 +1,24 @@
-const readline = require('readline').createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
-const rl = readline;
-rl.question("Digite sua idade: ", function(idade) {
-    let idadeNumero = Number(idade);
-    verificar(idadeNumero);
-    rl.close();
-});
+function verificarIdade() {
+    let idade = 22;
 
-
-function verificar(idade) {
     if (idade >= 18) {
         console.log("Pode trabalhar");
     } else {
         console.log("Não pode trabalhar");
     }
 }
+
+verificarIdade();
+
+let nomes = ["Areda", "Maria"];
+let idades = [22, 25];
+
+function mostrarUsuarios() {
+    for (let i = 0; i < nomes.length; i++) {
+        console.log("Nome:", nomes[i]);
+        console.log("Idade:", idades[i]);
+        console.log("----------------");
+    }
+}
+
+mostrarUsuarios();
